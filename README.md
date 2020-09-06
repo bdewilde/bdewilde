@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Burton DeWilde, an end-to-end data scientist based in Chicago.
+
+- 🔭 I’m currently working on [textacy](https://github.com/chartbeat-labs/textacy)
+- 🌱 I’m currently learning **MongoDB**, **Kafka**, and **Spanish**
+- 💬 Ask me about **data pipelines**, **natural language processing**, **Python**, **media and politics**
+- 📫 How to reach me: burtdewilde@gmail.com
+- 😄 Pronouns: he/him
