@@ -1,24 +1,9 @@
-### Hi there 👋
-
-<!--
-**bdewilde/bdewilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### howdy, y'all 👋
 
 I'm Burton DeWilde, an end-to-end data scientist and engineer for social good.
 
-- 🔭 I’m currently working on _professional development_
-- 🌱 I’m currently learning about environmental data and analysis
-- 💬 Ask me about **data pipelines**, **natural language processing**, **Python**, **media and politics**
-- 📫 How to reach me: burtdewilde@gmail.com
-- 😄 Pronouns: he/him
+- 👨‍💻 I’m currently working on data / ML pipelines run on very large datasets
+- 📚 I’m currently learning about MLOps and throwing pottery on the wheel
+- 💬 Ask me about **data pipelines**, **Python**, **media and politics**, **climate tech**, **photography**
+- 📧 How to reach me: burtdewilde@gmail.com or @burton@mstdn.social
+- ✊ Pronouns: he/him
